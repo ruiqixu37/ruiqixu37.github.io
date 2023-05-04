@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -34,6 +32,6 @@ Work experience
   * Tufts University
   * Supervisor: Michael Hughes
 
-<!-- Service and leadership
+Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
