@@ -14,6 +14,12 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 
 
 ## Publications
+- **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
+  Patrick Feeney, **Ruiqi Xu**, Michael Hughes
+  <!-- Neurips 2023 [paper](https://arxiv.org/abs/2106.00000) --> [[code]](https://github.com/tufts-ai-robotics-group/ImbalancedGCD)
+- **[To be uploaded]** Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training \
+  **Ruiqi Xu\***, Yongfeng Huang\*, Xin Chen, Lin Zhang 
+  <!-- ECAI 2023 [paper](https://arxiv.org/abs/2106.00000) -->
 
 ## Projects
 
@@ -45,14 +51,13 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 		</div>
 		<img src="/images/project-citadel-datathon.jpg" alt="Citadel Datathon">
 	</div>
-	
   <!-- Second Project -->
-	<!-- <div class="project">
+	<div class="project">
 		<div class="description">
-			<h2>Project 2</h2>
-			<p>This is a description of project 2.</p>
+			<h2>[TODO] Liar's Dice AI</h2>
+			<p>Open-source Implementation of Liar's Dice AI utilizing MCCFR.</p>
 		</div>
-		<img src="project2.jpg" alt="Project 2 Image">
-	</div> -->
+		<img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice">
+	</div>
 </body>
 </html>
