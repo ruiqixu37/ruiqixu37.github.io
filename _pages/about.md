@@ -55,7 +55,8 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 	<div class="project">
 		<div class="description">
 			<h2>[TODO] Liar's Dice AI</h2>
-			<p>Open-source Implementation of Liar's Dice AI utilizing MCCFR.</p>
+			<p>Open-source Implementation of Liar's Dice AI utilizing MCCFR.
+      <a href="https://github.com/ruiqixu37/liars-dice-ai">[Github]</a> </p>
 		</div>
 		<img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice">
 	</div>
