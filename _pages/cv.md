@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Applied Mathematics, Economics, Tufts University, 2023
+* Summa Cum Laude, B.S. in Computer Science, Applied Mathematics, Economics, Tufts University, 2023
 * M.S. in Computer Science, Brown University, 2025 (expected)
 
 Work experience
@@ -21,6 +21,10 @@ Work experience
 
 * Spring 2021: Quantitative Research Intern
   * Redwall-taihe Fund Management
+
+* Spring 2021 - Spring 2022: Machine Learning Research Intern
+  * Platinum AI
+  * Supervisor: Yongfeng Huang
 
 * Summer 2022: Data Science Intern
   * Fidelity Investments
