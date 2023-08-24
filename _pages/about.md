@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year CS M.S. student at Brown University. My research interest is broadly in 3D computer vision and graphics. 
 
-Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Liping Liu on graph neural networks and Prof. Michael Hughes on generalized category discovery. I also had the opportunity to intern at Watcher Asset, Redwall-taihe Fund Management, Platinum AI and Fidelity Investments.
+Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks. I also had the opportunity to intern at Watcher Asset, Redwall-taihe Fund Management, Fidelity Investments, and Platinum AI.
 
 
 ## Publications
@@ -45,17 +45,17 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
   <!-- First Project -->
 	<div class="project">
 		<div class="description">
-      <h2>Kriging Convolutional Networks</h2>
-			<p> Optimized PyTorch implementation of Kriging Convolutional Networks. I finished this project under the supervision of Prof. Liping Liu in Fall 2022. 
-      <a href="https://github.com/tufts-ml/kcn-torch">[Github]</a> </p>
+      <h2>Generalized Category Discovery</h2>
+			<p> Semi-Supervised Deep Clustering for Generalized Category Discovery. I worked with Patrick Feeney and Prof. Michael Hughes on this project in Spring 2023.
+      <a href="https://github.com/tufts-ai-robotics-group/ImbalancedGCD">[Github]</a> </p>
 		</div>
 	</div>
   <!-- Second Project -->
 	<div class="project">
 		<div class="description">
-      <h2>Generalized Category Discovery</h2>
-			<p> Semi-Supervised Deep Clustering for Generalized Category Discovery. I worked with Patrick Feeney and Prof. Michael Hughes on this project in Spring 2023.
-      <a href="https://github.com/tufts-ai-robotics-group/ImbalancedGCD">[Github]</a> </p>
+      <h2>Kriging Convolutional Networks</h2>
+			<p> Optimized PyTorch implementation of Kriging Convolutional Networks. I finished this project under the supervision of Prof. Liping Liu in Fall 2022. 
+      <a href="https://github.com/tufts-ml/kcn-torch">[Github]</a> </p>
 		</div>
 	</div>
   <!-- Third Project -->
@@ -76,5 +76,14 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 		</div>
 		<!-- <img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice"> -->
 	</div>
+  <!-- Fifth Project -->
+	<div class="project">
+		<div class="description">
+			<h2>Crystal Turtle</h2>
+			<p>Single player, top-down, 2D roguelike game. Developed with Unity and C#.
+		<a href="https://crystalturtleinc.wixsite.com/website">[Project Page]</a> </p>
+		</div>
+		<!-- <img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice"> -->
+	</div> 
 </body>
 </html>

@@ -22,10 +22,6 @@ Work experience
 * Spring 2021: Quantitative Research Intern
   * Redwall-taihe Fund Management
 
-* Spring 2021 - Spring 2022: Machine Learning Research Intern
-  * Platinum AI
-  * Supervisor: Yongfeng Huang
-
 * Summer 2022: Data Science Intern
   * Fidelity Investments
   * Supervisor: Sam Flynn-Alling 
@@ -37,6 +33,10 @@ Work experience
 * Spring 2023: Research Assistant
   * Tufts University
   * Supervisor: Michael Hughes
+
+* Summer 2022 - Summer 2023: Machine Learning Research Intern
+  * Platinum AI
+  * Supervisor: Yongfeng Huang
 
 <!-- Service and leadership
 ======
