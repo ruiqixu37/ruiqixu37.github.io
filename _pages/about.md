@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS M.S. student at Brown University. My research interest is broadly in 3D computer vision and graphics. 
+I am a first-year masters CS student at Brown University. My research interest is broadly in computer graphics and 3D object generation. I am working as a researcher assistant in Brown Visual Computing group, supervised by Prof. Daniel Ritchie.
 
 Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks. I also had the opportunity to intern at Watcher Asset, Redwall-taihe Fund Management, Fidelity Investments, and Platinum AI.
 

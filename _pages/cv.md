@@ -19,24 +19,32 @@ Work experience
 * Fall 2020: Data Science Intern
   * Watcher Asset
 
-* Spring 2021: Quantitative Research Intern
+* Spring 2021: Quantitative Researcher Intern
   * Redwall-taihe Fund Management
 
-* Summer 2022: Data Science Intern
+* Summer 2022: Data Scientist Intern
   * Fidelity Investments
   * Supervisor: Sam Flynn-Alling 
 
-* Fall 2023: Research Assistant
+* Fall 2023: Undergraduate Research Assistant
   * Tufts University
   * Supervisor: Liping Liu
 
-* Spring 2023: Research Assistant
+* Spring 2023: Undergraduate Research Assistant
   * Tufts University
   * Supervisor: Michael Hughes
 
 * Summer 2022 - Summer 2023: Machine Learning Research Intern
   * Platinum AI
   * Supervisor: Yongfeng Huang
+  
+* Fall 2023 - Present: Applied Graphics Researcher Intern
+  * Foundation LLM
+  * Supervisor: Wojciech Matusik
+
+* Spring 2024 - Present: Deep Learning Course TA
+  * Brown University
+  * Supervisor: Ritambhara Singh
 
 <!-- Service and leadership
 ======
