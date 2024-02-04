@@ -46,6 +46,10 @@ Work experience
   * Brown University
   * Supervisor: Ritambhara Singh
 
+* Summer 2023 - Present: Research Assistant
+  * Brown Visual Computing
+  * Supervisor: Daniel Ritchie
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
