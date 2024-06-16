@@ -38,17 +38,17 @@ Work experience
   * Platinum AI
   * Supervisor: Yongfeng Huang
   
-* Fall 2023 - Present: Applied Graphics Researcher Intern
+* Fall 2023 - Spring 2024: Applied Graphics Researcher Intern
   * Foundation LLM
   * Supervisor: Wojciech Matusik
 
-* Spring 2024 - Present: Deep Learning Course TA
+* Spring 2024: Deep Learning Course TA
   * Brown University
   * Supervisor: Ritambhara Singh
 
 * Summer 2023 - Present: Research Assistant
   * Brown Visual Computing
-  * Supervisor: Daniel Ritchie
+  * Supervisor: Daniel Ritchie, Srinath Sridhar
 
 <!-- Service and leadership
 ======

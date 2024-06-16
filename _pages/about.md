@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year masters CS student at Brown University. My research interest is broadly in computer graphics and 3D object generation. I am working as a researcher assistant in Brown Visual Computing group, supervised by Prof. Daniel Ritchie.
+I am a first-year masters student at Brown University. My research interest is broadly in computer graphics and 3D generative/reconstruction models. I am working as a researcher assistant in Brown Visual Computing group, co-supervised by Prof. Daniel Ritchie and Prof. Srinath Sridhar. 
 
 Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks. I also had the opportunity to intern at Watcher Asset, Redwall-taihe Fund Management, Fidelity Investments, and Platinum AI.
 
+**Last Update:** 06/16/2024
 
 ## Publications
 <!-- - **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
@@ -87,3 +88,9 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 	</div> 
 </body>
 </html>
+
+## Implementations
+Every now and then, we come across papers without code. Here is a record of codeless papers I implemented for personal interest / research needs. From these repos, you can probably notice how my coding skills grow over time and how much ChatGPT I used :) 
+
+1.  **Nuvo: Neural UV Mapping for Unruly 3D Representations** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
+2.  **On Distillation of Guided Diffusion Models** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
