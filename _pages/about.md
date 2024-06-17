@@ -68,24 +68,6 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 		</div>
 		<!-- <img src="/images/project-citadel-datathon.jpg" alt="Citadel Datathon"> -->
 	</div>
-  <!-- Fourth Project -->
-	<div class="project">
-		<div class="description">
-			<h2>Liar's Dice AI</h2>
-			<p>Open-source Implementation of Liar's Dice AI utilizing MCCFR.
-      <a href="https://github.com/ruiqixu37/liars-dice-ai">[Github]</a> </p>
-		</div>
-		<!-- <img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice"> -->
-	</div>
-  <!-- Fifth Project -->
-	<div class="project">
-		<div class="description">
-			<h2>Crystal Turtle</h2>
-			<p>Single player, top-down, 2D roguelike game. Developed with Unity and C#.
-		<a href="https://crystalturtleinc.wixsite.com/website">[Project Page]</a> </p>
-		</div>
-		<!-- <img src="/images/image-alignment-300x200.jpg" alt="Liar's Dice"> -->
-	</div> 
 </body>
 </html>
 
