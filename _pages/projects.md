@@ -35,7 +35,7 @@ author_profile: true
     <div class="description">
       <h2>Reconstructing 3D language field with in-the-wild images</h2>
       <p> Construct a 3D language field with Gaussian Splatting to handle images containing transient objects. The model leverages semantic segmentation and CLIP embeddings to model transient objects in the scene.
-      [Code coming by Dec 20th]
+      <a href="https://github.com/ruiqixu37/2952X-Final-Project">[Github]</a> <a href="https://drive.google.com/file/d/1plYeHFmX0MkWaqokV5WWmvFjgXElzR9h/view?usp=drive_link">[Report]</a>  
 	  <br><br>
 	  <strong> Keywords: </strong> Gaussian Splatting, 3D reconstruction, Segment-Anything, CLIP
 	  </p>

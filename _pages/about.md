@@ -12,7 +12,7 @@ I am a final-year Masters student at Brown University. My research interests are
 
 Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks. I also had the opportunity to intern at Redwall-taihe Fund Management, Fidelity Investments, Platinum AI, and Foundation LLM.
 
-**Last Update:** 12/05/2024
+**Last Update:** 12/30/2024
 
 ## Publications
 <!-- - **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
@@ -27,6 +27,6 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 ## Implementations
 Every now and then, we come across papers without code. Here is a record of codeless papers I implemented for personal interest / research needs. Hopefully you can notice how my coding skills grow over time from these repos:) 
 
-1.  **On Distillation of Guided Diffusion Models (41 stars)** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
-2.  **Nuvo: Neural UV Mapping for Unruly 3D Representations (22 stars)** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
+1.  **On Distillation of Guided Diffusion Models (43 stars)** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
+2.  **Nuvo: Neural UV Mapping for Unruly 3D Representations (23 stars)** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
 
