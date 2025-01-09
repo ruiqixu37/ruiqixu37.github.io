@@ -20,7 +20,7 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 [[code]](https://github.com/tufts-ai-robotics-group/ImbalancedGCD) -->
 - Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training \
   **Ruiqi Xu\***, Yongfeng Huang\*, Xin Chen, Lin Zhang. 
-  *In Proceedings of ECAI 2023* [[paper]](https://drive.google.com/file/d/199Qra7yA1Adlc5bIM3HulNjRufFvsy_p/view?usp=sharing) [[code]](https://github.com/ruiqixu37/BTTS_ECAI2023)
+  *In Proceedings of ECAI 2023* [[paper]](https://arxiv.org/abs/2309.10929) [[code]](https://github.com/ruiqixu37/BTTS_ECAI2023)
 
   I worked on this project during my internship at Platinum AI, while I was taking a year off from undergraduate. TLDR: We propose a method to specialize small language models towards text style transfer tasks by training a latent attribute predictor (based on small T5 models) via contrastive learning.
 
