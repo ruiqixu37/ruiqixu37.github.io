@@ -46,7 +46,7 @@ Work experience
   * Brown University
   * Supervisor: Ritambhara Singh
 
-* Fall 2023 - Present: Research Assistant
+* Fall 2023 - Summer 2025: Research Assistant
   * Brown Visual Computing
   * Supervisor: Daniel Ritchie, Srinath Sridhar
 

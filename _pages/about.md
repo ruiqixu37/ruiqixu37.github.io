@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Masters student at Brown University. My research interests are computer graphics, 3D computer vision, and deep learning. In particular, I aspire to **make 3D generative models controllable, interpretable, and powerful**. I am currently doing research with Brown Visual Computing group, co-supervised by Prof. Daniel Ritchie and Prof. Srinath Sridhar. 
+I am a first-year PhD student at Purdue University, advised by Prof. Daniel Aliaga. My research interests are computer graphics, 3D computer vision, and deep learning.
 
-Previously, I obtained my bachelor’s degree from Tufts University. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks. I also had the opportunity to intern at Redwall-taihe Fund Management, Fidelity Investments, Platinum AI, and Foundation LLM.
+Previously, I earned my Master's degree from Brown University, where I had the privilege of working with Prof. Daniel Ritchie and Prof. Srinath Sridhar on procedural modeling and 3D generative models. I received my bachelor’s degree from Tufts University, with three majors in computer science, applied mathematics, and economics. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks.
 
-**Last Update:** 12/30/2024
+**Last Update:** 08/25/2024
 
 ## Publications
 <!-- - **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
@@ -27,6 +27,6 @@ Previously, I obtained my bachelor’s degree from Tufts University. During my u
 ## Implementations
 Every now and then, we come across papers without code. Here is a record of codeless papers I implemented for personal interest / research needs. Hopefully you can notice how my coding skills grow over time from these repos:) 
 
-1.  **On Distillation of Guided Diffusion Models (43 stars)** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
-2.  **Nuvo: Neural UV Mapping for Unruly 3D Representations (23 stars)** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
+1.  **On Distillation of Guided Diffusion Models** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
+2.  **Nuvo: Neural UV Mapping for Unruly 3D Representations** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
 
