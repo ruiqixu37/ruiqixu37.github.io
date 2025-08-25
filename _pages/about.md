@@ -12,7 +12,7 @@ I am a first-year PhD student at Purdue University, advised by Prof. Daniel Alia
 
 Previously, I earned my Master's degree from Brown University, where I had the privilege of working with Prof. Daniel Ritchie and Prof. Srinath Sridhar on procedural modeling and 3D generative models. I received my bachelor’s degree from Tufts University, with three majors in computer science, applied mathematics, and economics. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks.
 
-**Last Update:** 08/25/2024
+**Last Update:** 08/25/2025
 
 ## Publications
 <!-- - **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
