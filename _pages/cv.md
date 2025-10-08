@@ -12,17 +12,15 @@ redirect_from:
 Education
 ======
 * Summa Cum Laude, B.S. in Computer Science, Applied Mathematics, Economics, Tufts University, 2023
-* M.S. in Computer Science, Brown University, 2025 (expected)
+* M.S. in Computer Science, Brown University, 2025
+* PhD in Computer Science, Purdue University, 2030 (Expected)
 
 Work experience
 ======
-* Fall 2020: Data Science Intern
-  * Watcher Asset
-
 * Spring 2021: Quantitative Researcher Intern
   * Redwall-taihe Fund Management
 
-* Summer 2022: Data Scientist Intern
+* Summer 2022: Quantitative Researcher Intern
   * Fidelity Investments
   * Supervisor: Sam Flynn-Alling 
 
@@ -42,13 +40,13 @@ Work experience
   * Foundation LLM
   * Supervisor: Mike Foshey
 
-* Spring 2024: Deep Learning Course TA
-  * Brown University
-  * Supervisor: Ritambhara Singh
-
 * Fall 2023 - Summer 2025: Research Assistant
   * Brown Visual Computing
   * Supervisor: Daniel Ritchie, Srinath Sridhar
+  
+* Fall 2025: Research Assistant
+  * Purdue University
+  * Supervisor: Daniel Aliaga
 
 <!-- Service and leadership
 ======
