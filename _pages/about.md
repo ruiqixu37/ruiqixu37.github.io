@@ -11,9 +11,9 @@ redirect_from:
 
 I am a first-year PhD student at Purdue University, advised by Prof. Daniel Aliaga. My research interests are computer graphics, 3D computer vision, and deep learning.
 
-Previously, I earned my Master's degree from Brown University, where I had the privilege of working with Prof. Daniel Ritchie and Prof. Srinath Sridhar on procedural modeling and 3D generative models. I received my bachelor’s degree from Tufts University, with three majors in computer science, applied mathematics, and economics. During my undergraduate years, I have been fortunate to work with Prof. Michael Hughes on generalized category discovery and Prof. Liping Liu on graph neural networks.
+Previously, I earned my Master's degree from Brown University, where I had the privilege of working with Prof. Daniel Ritchie and Prof. Srinath Sridhar on procedural modeling and 3D generative models. I received my bachelor’s degree from Tufts University, with three majors in computer science, applied mathematics, and economics.
 
-**Last Update:** 10/8/2025
+**Last Update:** 1/5/2026
 
 ## Publications
 <!-- - **[To be uploaded]** Semi-Supervised Deep Clustering for Generalized Category Discovery
@@ -27,7 +27,9 @@ Previously, I earned my Master's degree from Brown University, where I had the p
        onmouseout="this.style.transform='scale(1)'">
   <div>
     <strong>ProcTex: Consistent and Interactive Text-to-texture Synthesis for Part-based Procedural Models</strong><br>
-    Ruiqi Xu*, Zihan Zhu*, Ben Ahlbrand, Srinath Sridhar, Daniel Ritchie. <em>In Submission</em>
+    Ruiqi Xu*, Zihan Zhu*, Ben Ahlbrand, Srinath Sridhar, Daniel Ritchie.
+    <br>
+    <b>Eurographics 2026 (Conditionally Accepted)</b>
     <br>
     [<a href="https://arxiv.org/abs/2501.17895">paper</a>]<br><br>
   </div>
@@ -44,7 +46,8 @@ Previously, I earned my Master's degree from Brown University, where I had the p
   <div>
     <strong>Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training</strong><br>
     Ruiqi Xu*, Yongfeng Huang*, Xin Chen, Lin Zhang.
-    <em>In Proceedings of ECAI 2023</em>
+    <br>
+    <b>ECAI 2023</b>
     <br>
     [<a href="https://arxiv.org/abs/2309.10929">paper</a>]
     [<a href="https://github.com/ruiqixu37/BTTS_ECAI2023">code</a>]<br><br>
@@ -56,4 +59,4 @@ Every now and then, we come across papers without code. Here is a record of code
 
 1.  **On Distillation of Guided Diffusion Models** [[paper]](https://arxiv.org/abs/2210.03142) [[code]](https://github.com/ruiqixu37/distill_diffusion)
 2.  **Nuvo: Neural UV Mapping for Unruly 3D Representations** [[paper]](https://pratulsrinivasan.github.io/nuvo/) [[code]](https://github.com/ruiqixu37/Nuvo)
-
+3.  **SAT-SKYLINES: 3D Building Generation from Satellite Imagery and Coarse Geometric Priors** [[paper]](https://arxiv.org/pdf/2508.18531) [[code]](https://github.com/ruiqixu37/SAT-SKYLINES)
